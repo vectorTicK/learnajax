@@ -1,4 +1,4 @@
-# learnajax
+# Learn AJAX
 
 学习ajax
 

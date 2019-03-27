@@ -1,0 +1,2 @@
+<h1 style="color:green">success</h1>
+<h1>这是通过ajax请求获得的信息！</h1>
